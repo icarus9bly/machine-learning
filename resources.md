@@ -1,0 +1,2 @@
+- https://developers.google.com/machine-learning/crash-course/ml-intro
+- https://github.com/microsoft/ML-For-Beginners
